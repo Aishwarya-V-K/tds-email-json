@@ -1,4 +1,6 @@
-name: 23f2004032@ds.study.iitm.ac.in - Daily Automated Commit
+name: Daily Automated Commit
+
+run-name: 23f2004032@ds.study.iitm.ac.in - Daily Run
 
 on:
   schedule:
