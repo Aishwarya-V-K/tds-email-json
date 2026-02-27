@@ -1,8 +1,8 @@
-name: Daily Automated Commit
+name: 23f2004032@ds.study.iitm.ac.in - Daily Automated Commit
 
 on:
   schedule:
-    - cron: '30 7 * * *'   # Runs daily at 07:30 UTC
+    - cron: '30 7 * * *'
   workflow_dispatch:
 
 permissions:
