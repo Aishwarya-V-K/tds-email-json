@@ -1,0 +1,1 @@
+[![Daily Automated Commit](https://github.com/Aishwarya-V-K/tds-email-json/actions/workflows/daily-commits.yaml/badge.svg)](https://github.com/Aishwarya-V-K/tds-email-json/actions/workflows/daily-commits.yaml)
